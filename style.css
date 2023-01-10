@@ -6,6 +6,9 @@
     text-transform: capitalize;
     text-decoration: none;
 }
+body{
+Width:110%;
+}
 html{
     font-size: 62.5%;
     overflow-x: hidden;
